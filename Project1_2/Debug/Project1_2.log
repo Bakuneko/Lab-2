@@ -1,0 +1,4 @@
+﻿  Source.c
+D:\Прога\Lab 2 — копия\Project1_2\Source.c(39,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\Прога\Lab 2 — копия\Project1_2\Source.c(52,21): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Project1_2.vcxproj -> D:\Прога\Lab 2 — копия\Project1_2\Debug\Project1_2.exe
